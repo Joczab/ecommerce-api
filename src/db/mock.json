@@ -1,0 +1,25 @@
+{
+    "products" :[
+        {
+            "id" : 1,
+            "name": "Laptop Lenovo",
+            "description": "Laptop portatil empresarial",
+            "price" : 600,
+            "is_active": true
+        },
+        {
+            "id" : 2,
+            "name": "Switch",
+            "description": "Consola de videojuegos",
+            "price" : 549.99,
+            "is_active": true
+        },
+        {
+            "id" : 3,
+            "name": "PLay 5",
+            "description": "Consola de videojuegos",
+            "price" : 1600,
+            "is_active": true
+        }
+    ]
+}
